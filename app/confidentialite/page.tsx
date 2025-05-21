@@ -69,10 +69,13 @@ export default function PrivacyPolicy() {
 
             <section>
               <h2 className="text-2xl font-semibold mb-4">Nous contacter</h2>
-              <p>
-                Cette application est fournie à titre informatif et éducatif uniquement. Aucun support n'est proposé car
-                aucune donnée n'est collectée.
+              <p className="mb-3">
+                Si vous avez des questions concernant cette politique de confidentialité ou l'application, vous pouvez
+                nous contacter à l'adresse suivante :
               </p>
+              <div className="bg-slate-50 dark:bg-slate-800 p-4 rounded-md">
+                <p>Email : doctor974damien@gmail.com</p>
+              </div>
             </section>
           </div>
 
